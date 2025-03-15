@@ -39,24 +39,6 @@ This is a simple **Todo List** application built using **React**, featuring **us
 - Use the **Edit** button to modify a task.
 - Remove tasks using the **Delete** button.
 
-## Project Structure
-
-```
-/todo-list
-├── src
-│   ├── components
-│   │   ├── TodoForm.js
-│   │   ├── TodoItem.js
-│   │   ├── TodoList.js
-│   ├── context
-│   │   ├── todoReducer.js
-│   ├── App.js
-│   ├── index.js
-├── public
-│   ├── index.html
-├── package.json
-├── README.md
-```
 
 ## Contribution
 
